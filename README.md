@@ -5,9 +5,9 @@ This project utilizes a Convolutional Neural Network (CNN) to detect pneumonia f
 
 ## Features
 
-.Deep learning-based pneumonia detection.
-.User-friendly web interface for image upload and result display
-.Robust data preprocessing and augmentation for improved model accuracy.
+. Deep learning-based pneumonia detection.
+. User-friendly web interface for image upload and result display
+. Robust data preprocessing and augmentation for improved model accuracy.
 
 ## Dataset
 
